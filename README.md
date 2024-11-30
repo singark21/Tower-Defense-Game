@@ -5,7 +5,7 @@ I built a tower defense game to practice Java and intro game design principles!
 Here is the basic overview on what the game contains:
 - A path which enemies follow
 - A surrounding map for tower placement and a menu with towers, lives, and credits.
-- Animations for different enemy states and towers.
+- Animations for different enemy states and towers/projectiles.
 - Features 3 types of snails as enemies and 2 types of snail weaknesses as towers. 
 
 ### Enemies
