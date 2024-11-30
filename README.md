@@ -2,6 +2,9 @@
 
 I built a tower defense game to practice Java and intro game design principles! 
 
+To see Java code: Tower Defense -> src -> game
+To see animation resources: Tower Defense -> src -> resources
+
 Here is the basic overview on what the game contains:
 - A path which enemies follow
 - A surrounding map for tower placement and a menu with towers, lives, and credits.
